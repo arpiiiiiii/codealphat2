@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.captcha-container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.captcha-text {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
